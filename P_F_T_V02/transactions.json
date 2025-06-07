@@ -1,0 +1,42 @@
+{
+    "Salary": [
+        {
+            "amount": 125000.0,
+            "type": "INCOME",
+            "date": "2024-01-23"
+        },
+        {
+            "amount": 123540.0,
+            "type": "INCOME",
+            "date": "2001-12-12"
+        }
+    ],
+    "Food": [
+        {
+            "amount": 2000.0,
+            "type": "EXPENSE",
+            "date": "2024-01-26"
+        }
+    ],
+    "Work": [
+        {
+            "amount": 11340.0,
+            "type": "EXPENSE",
+            "date": "2001-12-12"
+        }
+    ],
+    "Utility": [
+        {
+            "amount": 1240.0,
+            "type": "EXPENSE",
+            "date": "2002-09-09"
+        }
+    ],
+    "Shopping": [
+        {
+            "amount": 12000.0,
+            "type": "EXPENSE",
+            "date": "2022-09-09"
+        }
+    ]
+}
